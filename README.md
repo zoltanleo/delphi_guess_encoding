@@ -1,0 +1,1 @@
+# delphi_guess_endcoding
